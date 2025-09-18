@@ -17,10 +17,10 @@ title: WORFLOGY Inc. Vision and Tech.
 
 - 2025.09.15
 
-> 미국 Founders Institute에서 운영하는 Korea·Japan 프로그램 참여에 대한 토론
+> 미국 Founders Institute에서 운영하는 Korea·Japan 프로그램 참여 리스크에 대한 토론
 > - (내용 정리 중)
 
-> 리스크 관리의 글로벌 표준화 커뮤니티 중 하나인 영국 IRM의 새로운 거버넌스 후보에 대한 토론
+> 리스크 관리의 글로벌 표준화 커뮤니티 중 하나인 영국 IRM의 새로운 거버넌스 후보와 솔루션의 미래에 대한 토론
 > - (내용 정리 중)
 
 ---
