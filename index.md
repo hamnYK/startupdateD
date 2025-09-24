@@ -15,29 +15,18 @@ title: WORFLOGY Inc. Vision and Tech.
 
 ---
 
-- 2025.09.15
-
-> 미국 Founders Institute에서 운영하는 Korea·Japan 프로그램 참여 리스크에 대한 토론
-> - (내용 정리 중)
-
-> 리스크 관리의 글로벌 표준화 커뮤니티 중 하나인 영국 IRM의 새로운 거버넌스 후보와 솔루션의 미래에 대한 토론
-> - (내용 정리 중)
-
----
-
-- 2025.07.27 ~ 2025.09.05
-
-> SaaS 솔루션 검증을 위한 오프라인 밸류 컨설팅 활용 방향 및 전략에 대한 토론
-> - (내용 정리 중)
-
-> 솔루션의 적용 도메인 영역에 대한 기업의 기술 비전 정합성 검증 토론
-> - (내용 정리 중)
-
-> 오프라인 컨설팅 서비스의 고객 가치와 보상의 적정성에 대한 토론
-> - (내용 정리 중)
-
----
-
-
-
-
+<script src="https://giscus.app/client.js"
+        data-repo="hamnYK/WorfBS"
+        data-repo-id="R_kgDOP1voKQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOP1voKc4Cv0rD"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="ko"
+        crossorigin="anonymous"
+        async>
+</script>
