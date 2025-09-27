@@ -11,7 +11,7 @@ title: WORFLOGY Inc. Vision and Tech.
 
 ---
 
-> **스타트업-데이트 실험 환경**
+> **스타트업-데이트 내러티브 공학 실험 환경**
 
 ![실험 환경](experimental_ENV.png)
 
